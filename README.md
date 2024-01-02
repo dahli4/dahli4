@@ -30,8 +30,8 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;">
-    <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=dahli4&bg_color=60,8f8f8f,000000&title_color=ffffff&text_color=ffffff" />
-    <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=dahli4&layout=compact&bg_color=60,8f8f8f,000000&title_color=ffffff&text_color=ffffff"/>
+      <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=dahli4&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=dahli4&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
     <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahli4)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahli4&layout=compact)](https://github.com/dahli4/github-readme-stats)-->
     </div> 
