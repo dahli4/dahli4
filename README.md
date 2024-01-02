@@ -13,7 +13,6 @@
 
  [![dahli4's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahli4&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/dahli4/github-readme-stats)
  </p>
-<br>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white">
