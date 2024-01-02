@@ -14,7 +14,7 @@
           <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white">
           <br/></div>
     </div>
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi :D </h2>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Tistory </h2>
     <div style="display:flex; flex-direction:row;">
     <a href="https://agutongtong.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
