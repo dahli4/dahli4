@@ -5,7 +5,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi :D </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 오늘도 화이팅 </div> 
     </div><br>
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 </h2> <div style="text-align: left;">
 <p>
     
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdahli4&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
@@ -21,7 +21,7 @@
           </div><br>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact </h2>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 </h2>
     <div style="text-align: left;"> <a href=mailto:hellrot00@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:hellrot00@gmail.com"> </a>
           </div>
     <div style="text-align: left;">  </div> 
