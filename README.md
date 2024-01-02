@@ -19,7 +19,7 @@
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
   
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=how-mrk&theme=default)](https://agutongtong.tistory.com/) 
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=agutongtong&theme=default)](https://agutongtong.tistory.com/) 
 </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact </h2> <br> 
