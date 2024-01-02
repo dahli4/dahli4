@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🤗 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 오늘도 화이팅 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 오늘도 화이팅🖐️ </div> 
     </div>
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 </h2> <div style="text-align: left;">
 <p>
