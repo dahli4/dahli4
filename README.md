@@ -15,22 +15,21 @@
  [![dahli4's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahli4&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/dahli4/github-readme-stats)
  </p>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ </h2>
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white">
           <img src="https://img.shields.io/badge/IOS-000000?style=flat&logo=IOS&logoColor=white">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white">
           <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white">
-          <br/></div>
+          </div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact </h2> <br> 
     <div style="text-align: left;"> <a href=mailto:hellrot00@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:hellrot00@gmail.com"> </a>
-          </div>  <br> 
+          </div>
     <div style="text-align: left;">  </div> 
     </div>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Tistory </h2>
-    <br>
     <div style="display:flex; flex-direction:row;">
     <a href="https://agutongtong.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
