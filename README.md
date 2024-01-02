@@ -24,7 +24,7 @@
           </div><br>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact </h2>
     <div style="text-align: left;"> <a href=mailto:hellrot00@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:hellrot00@gmail.com"> </a>
           </div>
     <div style="text-align: left;">  </div> 
