@@ -14,13 +14,13 @@
           <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white">
           <br/></div>
     </div>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi :D </h2>
     <div style="display:flex; flex-direction:row;">
     <a href="https://agutongtong.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=agutongtong&theme=default)](https://agutongtong.tistory.com/) 
-</div>
+    [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=agutongtong&theme=default)](https://agutongtong.tistory.com/) 
+    </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact </h2> <br> 
     <div style="text-align: left;"> <a href=mailto:hellrot00@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:hellrot00@gmail.com"> </a>
