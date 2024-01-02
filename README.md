@@ -31,12 +31,7 @@
         
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=agutongtong&theme=default)](https://agutongtong.tistory.com/) 
     </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact </h2> <br> 
-    <div style="text-align: left;"> <a href=mailto:hellrot00@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:hellrot00@gmail.com"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
-    </div>
+
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;">
     <p>
         <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=dahli4&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
