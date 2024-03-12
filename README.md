@@ -17,8 +17,6 @@
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white">
           <img src="https://img.shields.io/badge/IOS-000000?style=flat&logo=IOS&logoColor=white">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
-          <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white">
-          <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
