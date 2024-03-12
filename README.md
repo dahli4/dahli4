@@ -9,8 +9,8 @@
     
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdahli4&count_bg=%23F7CAC9&title_bg=%2392A8D1&icon=swift.svg&icon_color=%23F7CAC9&title=dahli4&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![dahli4's github stats](https://github-readme-stats.vercel.app/api?username=dahli4&count_contribs&count_private=true&custom_title=dahli4's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahli4&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/dahli4/dahli4)
+  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=dahli4&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=dahli4&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ </h2>
