@@ -12,7 +12,7 @@
 
 <p>
   <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=dahli4&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=dahli4&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" weight="100" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=dahli4&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ </h2>
