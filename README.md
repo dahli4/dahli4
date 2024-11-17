@@ -6,7 +6,7 @@
 <br> 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2> <div style="text-align: left;">
 <p>
-  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=dahli4&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=false">
+  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=dahli4&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
   <img height="150em" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=dahli4&exclude_repo=compVison&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 <br> 
