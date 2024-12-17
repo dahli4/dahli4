@@ -1,5 +1,6 @@
 <div align="center">
     <!-- 상단 메시지 -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=4E17C8FF&width=435&height=100&size=38&lines=Hi!+I'm+DongYoung" alt="Typing Animation">
     <div style="text-align: left;"> 
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🤗 </h2>  
         <div style="font-weight: 700; font-size: 15px; color: #c9d1d9;"> 오늘도 화이팅🖐️ </div> 
@@ -10,7 +11,7 @@
     <p>
         <img height=180 src="https://github-readme-stats-veggie-garden.vercel.app/api?username=dahli4&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" />
         <img height=180 src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=dahli4&exclude_repo=compVison&layout=compact&bg_color=20232a&title_color=918FE0&hide_border=true&text_color=fff" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dahli4&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=83%/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dahli4&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
     </p>
     <br> 
     <!-- Tech Stacks -->
@@ -46,18 +47,17 @@
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
     </div>
     <br>
-    <!-- 연락처 및 블로그 -->
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 </h2>
-    <div> 
-        <a href="mailto:hellrot00@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:hellrot00@gmail.com">
-        </a>
-    </div>
-    <br>
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📖 </h2>
-    <div style="display:flex; flex-direction:row;">
-        <a href="https://agutongtong.tistory.com/">
-            <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-        </a>
-    </div>
+<!-- 연락처 및 블로그 -->
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact </h2>
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 15px;">
+    <!-- Gmail Badge -->
+    <a href="mailto:hellrot00@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" width="90">
+    </a>
+    <br />
+    <!-- Tistory Badge -->
+    <a href="https://agutongtong.tistory.com/">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white" width="100">
+    </a>
+</div>
 </div>
