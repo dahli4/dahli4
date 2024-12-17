@@ -1,10 +1,10 @@
 <div align="center">
     <!-- 상단 메시지 -->
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=4E17C8FF&width=435&height=100&size=38&lines=Hi!+I'm+DongYoung" alt="Typing Animation">
-    <div style="text-align: left;"> 
+<!--     <div style="text-align: left;"> 
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🤗 </h2>  
         <div style="font-weight: 700; font-size: 15px; color: #c9d1d9;"> 오늘도 화이팅🖐️ </div> 
-    </div>
+    </div> -->
     <br> 
     <!-- GitHub Stats -->
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"></h2> 
