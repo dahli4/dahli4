@@ -11,7 +11,7 @@
     <p>
         <img height=180 src="https://github-readme-stats-veggie-garden.vercel.app/api?username=dahli4&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" />
         <img height=180 src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=dahli4&exclude_repo=compVison&layout=compact&bg_color=20232a&title_color=918FE0&hide_border=true&text_color=fff" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dahli4&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=100%/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dahli4&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=99%/>
     </p>
     <br> 
     <!-- Tech Stacks -->
