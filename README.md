@@ -1,6 +1,6 @@
 <div align="center">
     <!-- 상단 메시지 -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=4E17C8FF&width=435&height=70&size=36&lines=Hi!+I'm+DongYoung" alt="Typing Animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=918FE0&width=435&height=70&size=36&lines=Hi!+I'm+DongYoung" alt="Typing Animation">
 <!--     <div style="text-align: left;"> 
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🤗 </h2>
         <div style="font-weight: 700; font-size: 15px; color: #c9d1d9;"> 오늘도 화이팅🖐️ </div> 
@@ -8,8 +8,8 @@
     <!-- GitHub Stats -->
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"></h2> 
     <p>
-        <img height=180 src="https://github-readme-stats-veggie-garden.vercel.app/api?username=dahli4&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true&bg_color=fff&icon_color=E3E3E3A8&text_color=918FE0&title_color=918FE0&count_private=true&locale=kr" />
-        <img height=180 src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=dahli4&exclude_repo=compVison&layout=compact&bg_color=fff&title_color=918FE0&hide_border=true&text_color=918FE0&locale=kr" />
+        <img height=180 src="https://github-readme-stats-veggie-garden.vercel.app/api?username=dahli4&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true&bg_color=00000000&icon_color=E3E3E3A8&text_color=918FE0&title_color=918FE0&count_private=true&locale=kr" />
+        <img height=180 src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=dahli4&exclude_repo=compVison&layout=compact&bg_color=00000000&title_color=918FE0&hide_border=true&text_color=918FE0&locale=kr" />
         <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=dahli4&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=99.5%/>-->
     </p>
     <br> 
