@@ -18,6 +18,7 @@
     <!-- 주로 사용하는 기술 -->
     <h3 style="color: #c9d1d9;">✨ 주로 사용하는 기술</h3>
     <div>
+        <img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=IOS&logoColor=white">
         <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
         <br>
@@ -42,7 +43,6 @@
     <!-- 도구 -->
     <h3 style="color: #c9d1d9;">💻 도구</h3>
     <div>
-        <img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=IOS&logoColor=white">
         <!-- <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
