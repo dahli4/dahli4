@@ -22,31 +22,31 @@
         <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
         <br>
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-        <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+        <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
     </div>
     <!-- 사용해본 기술 -->
     <h3 style="color: #c9d1d9;">🔧 사용해본 기술</h3>
     <div>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" style="height: 24px;">
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="height: 24px;">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" style="height: 24px;">
-        <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" style="height: 24px;">
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" style="height: 20px;">
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="height: 20px;">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="height: 20px;">
+        <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" style="height: 20px;">
         <br />
-        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="height: 24px;">
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" style="height: 24px;">
-        <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" style="height: 24px;">
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="height: 20px;">
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" style="height: 20px;">
+        <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" style="height: 20px;">
         <br />
-        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" style="height: 24px;">
-        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" style="height: 24px;">
+        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" style="height: 20px;">
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" style="height: 20px;">
     </div>
     <!-- 도구 -->
     <h3 style="color: #c9d1d9;">💻 도구</h3>
     <div>
         <!-- <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="height: 20px;">
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style="height: 20px;">
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" style="height: 20px;">
     </div>
     <br>
 <!-- 연락처 및 블로그 -->
@@ -54,15 +54,15 @@
     <div style="display: flex; justify-content: space-between; align-items: center; gap: 15px;">
         <!-- Gmail Badge -->
         <a href="mailto:hellrot00@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" style="height: 20px;">
         </a>
         <a href="mailto:arhaxoda@naver.com">
-            <img src="http://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+            <img src="http://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" style="height: 20px;">
         </a>
         <br />
         <!-- Tistory Badge -->
         <a href="https://agutongtong.tistory.com/">
-            <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+            <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white" style="height: 20px;">
         </a>
     </div>
 </div>
